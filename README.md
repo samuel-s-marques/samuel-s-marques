@@ -7,7 +7,7 @@ I'm a Brazilian IT technician and technology enthusiast.
 Currently, I'm focused on
 - Developing a simple open-source file hosting web application
 - Developing my blog web app
-- 👨‍💻 Studying MEAN Stack
+- 👨‍💻 Studying MERN Stack
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-s-marques&layout=compact">
 
