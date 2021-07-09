@@ -12,6 +12,10 @@ Currently, I'm focused on
 	<img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-s-marques&show_icons=true">
 </p>
 
+## Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Skills
 
 <p align="center">
