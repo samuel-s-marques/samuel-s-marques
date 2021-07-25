@@ -3,8 +3,6 @@
 I'm a Brazilian IT technician and technology enthusiast.
 
 Currently, I'm focused on
-- Developing a simple open-source file hosting web application
-- Developing my blog web app
 - 👨‍💻 Studying MERN Stack
 
 <p align="center">
