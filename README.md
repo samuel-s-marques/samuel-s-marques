@@ -13,13 +13,13 @@ Currently, I'm focused on
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 19 July, 2021 - 25 July, 2021
+Week: 20 July, 2021 - 26 July, 2021
 
-Vue.js       14 hrs 37 mins  ███████████████░░░░░░░░░░   59.66 % 
-Markdown     3 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-TypeScript   3 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-JavaScript   1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Vue.js       7 hrs 15 mins   ███████████▒░░░░░░░░░░░░░   45.19 % 
+TypeScript   5 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   35.24 % 
+Markdown     1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+SCSS         58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 <!--END_SECTION:waka-->
 
