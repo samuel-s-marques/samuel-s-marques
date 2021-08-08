@@ -13,7 +13,7 @@ Currently, I'm focused on
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 31 July, 2021 - 06 August, 2021
+Week: 01 August, 2021 - 07 August, 2021
 
 TypeScript   1 hr 4 mins     ████████████▒░░░░░░░░░░░░   49.87 % 
 SCSS         44 mins         ████████▓░░░░░░░░░░░░░░░░   34.54 % 
