@@ -13,7 +13,7 @@ Currently, I'm focused on
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 03 August, 2021 - 09 August, 2021
+Week: 04 August, 2021 - 10 August, 2021
 
 Vue.js       21 mins         ███████████████▒░░░░░░░░░   61.55 % 
 JavaScript   12 mins         █████████▒░░░░░░░░░░░░░░░   36.94 % 
