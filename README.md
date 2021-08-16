@@ -13,10 +13,7 @@ Currently, I'm focused on
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 08 August, 2021 - 14 August, 2021
-
-Vue.js       21 mins         ███████████████▒░░░░░░░░░   61.55 % 
-JavaScript   12 mins         █████████▒░░░░░░░░░░░░░░░   36.94 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
