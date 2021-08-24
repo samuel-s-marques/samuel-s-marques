@@ -13,7 +13,9 @@ Currently, I'm focused on
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 17 August, 2021 - 23 August, 2021
+
+
 ```
 <!--END_SECTION:waka-->
 
