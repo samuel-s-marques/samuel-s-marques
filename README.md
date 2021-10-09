@@ -13,7 +13,11 @@ Currently, I'm focused on
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 October, 2021 - 08 October, 2021
+
+SCSS   1 hr 17 mins    █████████████▓░░░░░░░░░░░   55.22 % 
+HTML   1 hr            ██████████▓░░░░░░░░░░░░░░   43.23 % 
+CSS    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
 
