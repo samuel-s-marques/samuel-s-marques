@@ -13,12 +13,12 @@ Currently, I'm focused on
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2021 - 22 October, 2021
+Week: 17 October, 2021 - 23 October, 2021
 
-HTML         2 hrs 1 min     █████████████████░░░░░░░░   67.87 % 
-SCSS         47 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.74 % 
-JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+HTML         1 hr 25 mins    █████████████████████▓░░░   86.43 % 
+JavaScript   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+SCSS         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 <!--END_SECTION:waka-->
 
