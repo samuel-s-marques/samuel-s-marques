@@ -13,7 +13,7 @@ Currently, I'm focused on
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2021 - 05 December, 2021
+Week: 30 November, 2021 - 06 December, 2021
 
 SCSS       7 hrs 21 mins   █████████████████▒░░░░░░░   69.93 % 
 HTML       1 hr 53 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.92 % 
