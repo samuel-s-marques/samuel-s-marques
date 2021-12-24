@@ -2,13 +2,85 @@
 
 I'm a Brazilian IT technician and technology enthusiast.
 
-Currently, I'm focused on
-- 👨‍💻 Studying Flutter
+- 🏢 I'm currently working at Crowe Macro
+- 👨‍💻 I'm currently learning Flutter
+- 📫 Ask me about anything, I am happy to help :)
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-s-marques/)
 
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-s-marques&layout=compact">
 	<img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-s-marques&show_icons=true">
 </p>
+
+## Tech stack
+> Tools, languages and other technologies that I like to work with.
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#samuel-s-marques-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#samuel-s-marques-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#samuel-s-marques-tech">
+        <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#samuel-s-marques-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#samuel-s-marques-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+  </tr>
+  <tr>
+       <td align="center" width="96"> 
+      <a href="#samuel-s-marques-tech" >
+        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#samuel-s-marques-tech">
+        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+         <td align="center" width="96"> 
+      <a href="#samuel-s-marques-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#samuel-s-marques-tech">
+        <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="48" height="48" alt="SASS" />
+      </a>
+      <br>SASS
+    </td>
+         <td align="center" width="96"> 
+      <a href="#samuel-s-marques-tech" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+  </tr>
+</table>
 
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
@@ -17,21 +89,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-## Skills
-
-<p align="center">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img alt="Node.JS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+[![Samuel's github activity graph](https://activity-graph.herokuapp.com/graph?username=samuel-s-marques&theme=react-dark)](https://github.com/samuel-s-marques)
 
 ## Contact me
 
