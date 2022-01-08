@@ -7,10 +7,16 @@ I'm a Brazilian IT technician and technology enthusiast.
 - 📫 Ask me about anything, I am happy to help :)
 - 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-s-marques/)
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=samuel-s-marques.samuel-s-marques" alt="visitor badge"/>
+
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-s-marques&layout=compact">
 	<img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-s-marques&show_icons=true">
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=samuel-s-marques&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </p>
+
+## Trophies
+<p align="left"> <a href="https://github.com/samuel-s-marques/"><img src="https://github-profile-trophy.vercel.app/?username=samuel-s-marques" alt="samuel-s-marques" /></a> </p>
 
 ## Tech stack
 > Tools, languages and other technologies that I like to work with.
