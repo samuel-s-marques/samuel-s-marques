@@ -85,7 +85,10 @@ I'm a Brazilian IT technician and technology enthusiast.
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 January, 2022 - 07 January, 2022
+
+Dart   2 hrs 44 mins   ████████████████████████▒   96.81 % 
+YAML   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 <!--END_SECTION:waka-->
 
