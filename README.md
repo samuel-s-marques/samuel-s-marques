@@ -7,16 +7,13 @@ I'm a Brazilian IT technician and technology enthusiast.
 - 📫 Ask me about anything, I am happy to help :)
 - 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-s-marques/)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=samuel-s-marques.samuel-s-marques" alt="visitor badge"/>
+## Connect with me
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-s-marques&layout=compact">
-	<img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-s-marques&show_icons=true">
-	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=samuel-s-marques&hide_border=true&date_format=j%20M%5B%20Y%5D">
+	<a href="https://github.com/samuel-s-marques" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+	<a href="https://www.linkedin.com/in/samuel-s-marques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 5px;" ></a>
+	<a href="mailto:samuel.s.marques@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style="margin-bottom: 5px;" ></a>
 </p>
-
-## Trophies
-<p align="left"> <a href="https://github.com/samuel-s-marques/"><img src="https://github-profile-trophy.vercel.app/?username=samuel-s-marques" alt="samuel-s-marques" /></a> </p>
 
 ## Tech stack
 > Tools, languages and other technologies that I like to work with.
@@ -88,6 +85,15 @@ I'm a Brazilian IT technician and technology enthusiast.
   </tr>
 </table>
 
+## GitHub Stats
+
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-s-marques&layout=compact">
+	<img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-s-marques&show_icons=true"><br>
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=samuel-s-marques&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
+	<img src="https://visitor-badge.glitch.me/badge?page_id=samuel-s-marques.samuel-s-marques" alt="visitor badge"/>
+</p>
+
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
@@ -99,10 +105,3 @@ YAML   5 mins          ▓░░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 [![Samuel's github activity graph](https://activity-graph.herokuapp.com/graph?username=samuel-s-marques&theme=react-dark)](https://github.com/samuel-s-marques)
-
-## Contact me
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/samuel-s-marques/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-	<a href="mailto:samuel.s.marques@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-</p>
