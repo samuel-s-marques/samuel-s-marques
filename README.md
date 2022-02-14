@@ -11,7 +11,7 @@ I'm a Brazilian IT technician and technology enthusiast.
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2022 - 12 February, 2022
+Week: 07 February, 2022 - 13 February, 2022
 
 Dart        45 hrs 24 mins  ████████████████████████▓   98.95 % 
 YAML        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
