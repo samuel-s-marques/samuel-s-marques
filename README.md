@@ -11,13 +11,13 @@ I'm a Brazilian IT technician and technology enthusiast.
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-From: 16 February, 2022 - To: 23 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
-Dart       36 hrs 6 mins   ████████████████████████░   95.36 % 
-JSON       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Groovy     27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Markdown   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-YAML       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Dart       35 hrs 1 min    ████████████████████████░   95.46 % 
+JSON       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Groovy     27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Markdown   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+YAML       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
 
