@@ -10,15 +10,18 @@ I'm a Brazilian IT technician and technology enthusiast.
 
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Dart       31 hrs 55 mins  ███████████████████████▒░   92.78 % 
-JSON       51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Markdown   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-YAML       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Groovy     27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Dart         32 hrs 17 mins  ██████████████████████▓░░   90.54 %
+XML          51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JSON         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+YAML         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Groovy       29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Markdown     28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
+
 <!--END_SECTION:waka-->
 
 [![Samuel's github activity graph](https://activity-graph.herokuapp.com/graph?username=samuel-s-marques&theme=react-dark)](https://github.com/samuel-s-marques)
