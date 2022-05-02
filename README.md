@@ -12,7 +12,7 @@ I'm a Brazilian IT technician and technology enthusiast.
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2022 - To: 30 April 2022
+From: 24 April 2022 - To: 01 May 2022
 
 Dart         32 hrs 43 mins  ███████████████████████▓░   94.27 %
 XML          58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
