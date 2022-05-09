@@ -12,7 +12,7 @@ I'm a Brazilian IT technician and technology enthusiast.
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 01 May 2022 - To: 08 May 2022
 
 Dart             27 hrs 29 mins  ████████████████████████░   96.20 %
 YAML             20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
