@@ -12,12 +12,12 @@ I'm a Brazilian IT technician and technology enthusiast.
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 May 2022 - To: 22 May 2022
+From: 16 May 2022 - To: 23 May 2022
 
-Dart         25 hrs 40 mins  ███████████████████████▓░   94.40 %
-YAML         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-XML          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Properties   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Dart         25 hrs 20 mins  ███████████████████████▓░   94.32 %
+YAML         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+XML          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Properties   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 Kotlin       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
