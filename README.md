@@ -2,7 +2,7 @@
 
 I'm a Brazilian junior app developer and technology enthusiast.
 
-- 🏢 I'm currently available to work
+- 🏢 I'm currently open to work
 - 👨‍💻 I'm currently learning Flutter
 - 📫 Ask me about anything, I am happy to help :)
 - 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-s-marques/)
