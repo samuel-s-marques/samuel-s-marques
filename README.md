@@ -12,14 +12,14 @@ I'm a Brazilian junior app developer and technology enthusiast.
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 07 June 2022
+From: 01 June 2022 - To: 08 June 2022
 
-Dart             30 hrs 22 mins  ████████████████████████░   95.50 %
-YAML             26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-XML              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Text             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Properties       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Shell Script     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Dart             26 hrs 2 mins   ███████████████████████▓░   95.27 %
+YAML             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+XML              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Text             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Properties       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Shell Script     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
