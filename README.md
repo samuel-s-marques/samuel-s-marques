@@ -12,10 +12,10 @@ I'm a Brazilian junior app developer and technology enthusiast.
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 July 2022 - To: 02 August 2022
+From: 27 July 2022 - To: 03 August 2022
 
-Dart   18 hrs 53 mins  ████████████████████████▓   98.99 %
-YAML   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Dart   26 hrs 53 mins  ████████████████████████▓   99.29 %
+YAML   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
