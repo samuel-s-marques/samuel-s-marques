@@ -27,7 +27,7 @@ I'm a Brazilian junior app developer and technology enthusiast, with a passion f
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2023 - To: 23 April 2023
+From: 17 April 2023 - To: 24 April 2023
 
 Dart         9 hrs 51 mins   ███████████████████████░░   92.34 %
 Properties   30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
