@@ -26,14 +26,14 @@ I'm a Brazilian junior app developer and technology enthusiast, with a passion f
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
-Dart         11 hrs 42 mins  ████████████▓░░░░░░░░░░░░   50.10 %
-TypeScript   4 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-HTML         3 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-CSS          2 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-SCSS         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Dart         8 hrs 42 mins   ███████████▒░░░░░░░░░░░░░   45.81 %
+TypeScript   4 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
+HTML         2 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+CSS          2 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+SCSS         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
