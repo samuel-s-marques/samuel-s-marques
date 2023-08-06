@@ -27,9 +27,13 @@ I'm a Brazilian junior app developer and technology enthusiast, with a passion f
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2023 - To: 04 August 2023
+From: 29 July 2023 - To: 05 August 2023
 
-No activity tracked
+TypeScript   24 mins         ██████████▓░░░░░░░░░░░░░░   43.10 %
+XML          9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+HTML         9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+Java         8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+YAML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 ```
 
 <!--END_SECTION:waka-->
