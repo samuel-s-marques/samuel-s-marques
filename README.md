@@ -27,7 +27,7 @@ I'm a Brazilian junior app developer and technology enthusiast, with a passion f
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2023 - To: 06 August 2023
+From: 31 July 2023 - To: 07 August 2023
 
 TypeScript   24 mins         ██████████▓░░░░░░░░░░░░░░   43.10 %
 XML          9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
