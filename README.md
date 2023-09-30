@@ -27,13 +27,13 @@ I'm a Brazilian junior app developer and technology enthusiast, with a passion f
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2023 - To: 28 September 2023
+From: 22 September 2023 - To: 29 September 2023
 
-Dart              3 hrs 41 mins   ███████████████▒░░░░░░░░░   61.06 %
-YAML              50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-JSON              34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-XML               15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-HTML              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Dart              6 hrs 2 mins    ██████████████████░░░░░░░   71.57 %
+YAML              52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+JSON              34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+XML               16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+HTML              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
