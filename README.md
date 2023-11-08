@@ -1,16 +1,16 @@
 ### Hi there, I'm Samuel! 👋
 
-I'm a Brazilian junior app developer and technology enthusiast, with a passion for computing and software development.
+I'm a Brazilian app developer and technology enthusiast, with a passion for computing and software development.
 
 #### About me:
 
 - 🌟 Geek and technology enthusiast
-- 💻 Junior Flutter Developer
+- 💻 Flutter Developer
 - 🎓 Information Systems student at FIAP
 - 🔭 Personal projects: weather app and todo app
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-s-marques/)
 - ✉ Send me an [e-mail](mailto:samuel.s.marques@protonmail.com)
-- 🔗 Access my [website](https://samuel-marques.me/)
+- 🔗 Access my [website](https://samuelmarques.dev/)
 
 #### My projects:
 
