@@ -27,7 +27,7 @@ I'm a Brazilian app developer and technology enthusiast, with a passion for comp
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 08 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
 No activity tracked
 ```
